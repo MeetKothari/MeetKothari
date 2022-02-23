@@ -8,7 +8,6 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/meet-kothari-3b33861a2/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/meet-kothari-3b33861a2/#gh-dark-mode-only)
 &nbsp;&nbsp;
