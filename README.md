@@ -30,5 +30,3 @@
  [<img src= 'https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white' alt='Apple Music' height='40'>](https://music.apple.com/library/playlist/p.AWXoLXWFLdXvLoL)
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeetKothari&show_icons=true)  
