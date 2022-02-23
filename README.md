@@ -31,4 +31,3 @@
 
 ---
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?MeetKothari={MeetKothari}&theme=vue
