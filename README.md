@@ -31,7 +31,3 @@
 
 ---
 
-<details>
-
-  <img align="left" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MeetKothari}&theme=vue" />****
-
