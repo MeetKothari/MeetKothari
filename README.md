@@ -32,7 +32,6 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MeetKothari}&theme=vue" />****
+  <img align="left" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MeetKothari}&theme=vue" />****
 
