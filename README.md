@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Everything. No, really...🤣
 - 🥅 2022 Goals: Learn more about SQL.
 - ⚡ Fun fact: I can dunk a basketball (about half the time)!
-- - 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page. 
 
 ### Connect with me:
 
