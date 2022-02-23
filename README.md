@@ -31,3 +31,5 @@
 
 ---
 
+ [<img src= 'https://github-profile-summary-cards.vercel.app/api/cards/profile-details?MeetKothari={MeetKothari}&theme=vue' alt='Stats' height='40'>]
+
