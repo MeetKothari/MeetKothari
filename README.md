@@ -2,9 +2,8 @@
 
 ## I'm a junior Computer Science student!
 
-- 🌱 I’m currently learning: Everything. No, really...🤣
+- 🌱 I’m currently learning: MATLAB
 - 🥅 2022 Goals: Learn more about SQL.
-- ⚡ Fun fact: I can dunk a basketball (about half the time)!
 - 🔭 This page is a WIP for the 2022 spring semester.
 
 ### Connect with me:
