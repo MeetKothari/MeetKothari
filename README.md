@@ -2,8 +2,8 @@
 
 ## I'm a junior Computer Science student!
 
-- 🌱 I’m currently learning: MATLAB
-- 🥅 2022 Goals: Learn more about SQL.
+- 🌱 I’m currently learning: AWS
+- 🥅 2022 Goals: Learn more about Java.
 - 🔭 This page is a WIP for the 2022 spring semester.
 
 ### Connect with me:
