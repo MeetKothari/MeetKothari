@@ -1,7 +1,7 @@
 # Hi there, I'm Meet!
 
-- 🌱 I’m currently learning: AWS!
-- 🥅 2022 Goals: Learn more about HTML.
+- 🌱 I’m currently learning: JavaScript!
+- 🥅 2022 Goals: Learn more about APIs, React, and Django.
 - 🔭 This page is a WIP.
 
 ### Connect with me:
